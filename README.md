@@ -1,7 +1,7 @@
 # portofolio-tailwindCss
 
 - install dependensi dengan menjalankan
-- npm install
+_ npm install
 
 - menjalankan program
-- npx tailwindcss -i ./src/input.css -o ./dist/output.css --watch
+_ npx tailwindcss -i ./src/input.css -o ./dist/output.css --watch
